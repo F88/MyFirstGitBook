@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-   * 第1章 hoge
 * Introduction
    * foo
+   * 第1章 hoge
    * bar
 
